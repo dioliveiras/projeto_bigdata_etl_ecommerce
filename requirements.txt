@@ -1,7 +1,0 @@
-# Dependências fixadas para reprodutibilidade
-requests==2.32.3
-#pandas
-kafka-python==2.0.2
-psycopg[binary]==3.2.1
-pyspark==4.0.0
-python-dotenv==1.0.1
